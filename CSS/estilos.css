@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* fondo de toda la página */
+body{
+    background-image: url("../IMG/fondo.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+
+    font-family: Arial, sans-serif;
+    color: black;
+    padding: 2rem;
