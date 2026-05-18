@@ -13,3 +13,26 @@ body{
     color: black;
     padding: 2rem;
 }
+
+/* contenedor principal */
+.contenedor{
+    width: 80%;
+    max-width: 1200px;
+    margin: auto;
+    background-color: white;
+    padding: 2rem;
+}
+
+/* encabezado */
+.encabezado{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 2rem;
+}
+
+/* titulo */
+.titulo{
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
