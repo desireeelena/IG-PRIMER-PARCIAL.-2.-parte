@@ -4,12 +4,12 @@
     box-sizing: border-box;
 }
 
-/* fondo de toda la página */
+/* cuerpo */
 body{
-    background-image: url("../IMG/fondo.jpg");
+    background-image: url("../IMG/fondo.png");
     background-size: cover;
     background-attachment: fixed;
-
-    font-family: Arial, sans-serif;
+    font-family: 'Arvo', serif;
     color: black;
     padding: 2rem;
+}
